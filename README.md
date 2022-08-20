@@ -18,5 +18,7 @@ The Zurich climate crisis reached an insufferable peak temperature in excess of 
 
 # People
 Chief SCIENTIST - Bill D. Lord - BitCoin maximalist, wanderer, age 16.
+
 Chief Financial Officer - Judy S Law - Former Head of Finance, Enron
+
 Chief Technology Officer - Grilly - a Yorkshire Terrier who writes Javascript
