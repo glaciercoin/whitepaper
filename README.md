@@ -3,10 +3,15 @@ The Glacier coin will be the world's first fully decentralised coin backed by th
 
 ## HISTORY OF DIGITAL AGE
 ARPA NETWORK - First internetwork network
+
 TCP/IP - End-to-end virtual signal line
+
 The World Wide Web - Infinite maximal connectivity
+
 BitCoin - Digital currency, Digital gold
+
 Ethereum - Decentralised Trustless Compute
+
 Glacier Coin - Unstoppable Climate Change
 
 ## The GlacierCoin DAO
